@@ -7,7 +7,7 @@ import {
   afterEach,
   expect,
 } from "vitest";
-import { Calculator, CalculatorError } from "../src/calculator";
+import { Calculator, CalculatorError } from "../../src/1/calculator";
 
 describe("Suite", () => {
   let calc: Calculator;
